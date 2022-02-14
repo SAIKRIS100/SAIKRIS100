@@ -1,0 +1,13 @@
+ n = int(input("Enter the number:"))
+res=0
+summ=0
+while n>0:
+    res=n%10
+    summ=summ+res
+    n=n//10
+print("The sum of given num is:",summ)
+
+OUTPUT
+Enter the number:10
+The sum of given num is: 1
+> 
