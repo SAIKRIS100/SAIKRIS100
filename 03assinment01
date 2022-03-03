@@ -1,0 +1,15 @@
+n=int(input())
+l=[i for i in range(10,0,-1)]
+print(l)
+
+output
+10
+09
+08
+07
+06
+05
+04
+03
+02
+01
