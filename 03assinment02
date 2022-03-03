@@ -1,0 +1,10 @@
+n1=("sai","ravi","mahesh")      
+n2=("ganesh","anil","kumar")
+a=len(n1)
+b=len(n2)
+
+print(n1+n2)
+
+output
+('sai', 'ravi', 'mahesh', 'ganesh', 'anil', 'kumar')
+> 
